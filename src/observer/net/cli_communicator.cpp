@@ -8,9 +8,7 @@ EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
 MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details. */
 
-//
-// Created by Wangyunlai on 2023/06/25.
-//
+
 
 #include "net/cli_communicator.h"
 #include "net/buffered_writer.h"
