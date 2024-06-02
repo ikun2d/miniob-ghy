@@ -8,9 +8,7 @@ EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
 MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details. */
 
-//
-// Created by Longda on 2010
-//
+
 
 // Include Files
 #include "common/seda/event_dispatcher.h"
